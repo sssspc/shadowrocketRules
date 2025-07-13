@@ -1,1 +1,23 @@
-
+# NAME: Emby
+# AUTHOR: sssspc
+# REPO: https://github.com/sssspc/shadowrocketRules
+# UPDATED: 2025-07-13 19:17:00
+# DOMAIN: 
+# DOMAIN-KEYWORD: 
+# DOMAIN-SUFFIX: 
+# PROCESS-NAME: 
+# TOTAL: 
+DOMAIN,emby.yamo.uk
+DOMAIN-WILDCARD,*.nomaba.*
+DOMAIN-SUFFIX,emby.younoyes.com
+DOMAIN-SUFFIX,rjcf.rjf37.com
+DOMAIN-SUFFIX,lite.saturdayvideo.top
+DOMAIN-WILDCARD,*.chilledmelon.*
+DOMAIN-WILDCARD,*.lilyemby.*
+DOMAIN-SUFFIX,jsq.vban.xyz
+DOMAIN-SUFFIX,cf.lemby.me
+DOMAIN-SUFFIX,us.lemby.me
+DOMAIN-SUFFIX,emby1.123456789.lol
+DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,emby.nebula-media.org
+DOMAIN-SUFFIX,free.28.al
