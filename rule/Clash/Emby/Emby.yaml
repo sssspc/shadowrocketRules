@@ -22,4 +22,4 @@ payload:
   - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN-SUFFIX,emby.nebula-media.org
   - DOMAIN-SUFFIX,free.28.al
-  - IP-CIDR6,2a03:4000:3e:c8:28d9:62ff:fec6:d469/32
+  - IP-CIDR6,2a03:4000:3e:c8:28d9:62ff:fec6:d469/64
