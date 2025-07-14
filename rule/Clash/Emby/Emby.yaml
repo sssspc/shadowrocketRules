@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,rjf37.com
   - DOMAIN-SUFFIX,tv.micu.hk
   - DOMAIN-SUFFIX,lite.saturdayvideo.top
-  #- DOMAIN-SUFFIX,chilledmelon.com
+  - DOMAIN-SUFFIX,chilledmelon.com
   - DOMAIN-SUFFIX,lilyemby.my
   - DOMAIN-SUFFIX,jsq.vban.xyz
   - DOMAIN-SUFFIX,lemby.me
