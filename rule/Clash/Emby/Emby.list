@@ -1,13 +1,14 @@
 # NAME: Emby
 # AUTHOR: sssspc
 # REPO: https://github.com/sssspc/shadowrocketRules
-# UPDATED: 2025-07-13 19:17:00
+# UPDATED: 2025-07-15 20:04:00
 # DOMAIN: 
 # DOMAIN-KEYWORD: 
 # DOMAIN-SUFFIX: 
 # PROCESS-NAME: 
 # TOTAL: 
 DOMAIN,emby.yamo.uk
+DOMAIN,emby.heisi.org
 DOMAIN-WILDCARD,*.nomaba.*
 DOMAIN-SUFFIX,emby.younoyes.com
 DOMAIN-SUFFIX,rjcf.rjf37.com
