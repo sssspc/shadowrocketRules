@@ -1,7 +1,7 @@
 # NAME: Emby
 # AUTHOR: sssspc
 # REPO: https://github.com/sssspc/shadowrocketRules
-# UPDATED: 2025-07-13 19:17:00
+# UPDATED: 2025-07-15 20:04:00
 # DOMAIN: 
 # DOMAIN-KEYWORD: 
 # DOMAIN-SUFFIX: 
@@ -11,6 +11,7 @@ payload:
   - DOMAIN,emby.younoyes.com
   - DOMAIN,rjcf.xytx.org
   - DOMAIN,emby.yamo.uk
+  - DOMAIN,emby.heisi.org
   - DOMAIN-SUFFIX,rjf37.com
   - DOMAIN-SUFFIX,tv.micu.hk
   - DOMAIN-SUFFIX,lite.saturdayvideo.top
@@ -22,3 +23,4 @@ payload:
   - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN-SUFFIX,emby.nebula-media.org
   - DOMAIN-SUFFIX,free.28.al
+  
