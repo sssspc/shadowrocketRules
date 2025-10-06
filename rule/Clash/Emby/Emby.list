@@ -15,8 +15,7 @@ DOMAIN-SUFFIX,lite.saturdayvideo.top
 DOMAIN-WILDCARD,*.chilledmelon.*
 DOMAIN-WILDCARD,*.lilyemby.*
 DOMAIN-SUFFIX,jsq.vban.xyz
-DOMAIN-SUFFIX,cf.lemby.me
-DOMAIN-SUFFIX,us.lemby.me
+DOMAIN-SUFFIX,lemby.me
 DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,free.28.al
