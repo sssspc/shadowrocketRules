@@ -1,7 +1,7 @@
 # NAME: Emby
 # AUTHOR: sssspc
 # REPO: https://github.com/sssspc/shadowrocketRules
-# UPDATED: 2025-07-15 20:04:00
+# UPDATED: 2025-11-16 20:34:00
 # DOMAIN: 
 # DOMAIN-KEYWORD: 
 # DOMAIN-SUFFIX: 
@@ -22,4 +22,5 @@ payload:
   - DOMAIN-SUFFIX,emby.nebula-media.org
   - DOMAIN-SUFFIX,free2.28.al
   - DOMAIN-SUFFIX,handoumedia.top
+  - DOMAIN-SUFFIX,lite.liminalnet.com
   
