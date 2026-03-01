@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,tv.micu.hk
   - DOMAIN-SUFFIX,lite.saturdayvideo.top
   - DOMAIN-SUFFIX,chilledmelon.com
-  - DOMAIN-SUFFIX,lilyemby.com
+  - DOMAIN-KEYWORD,lilyemby
   - DOMAIN-SUFFIX,jsq.vban.xyz
   - DOMAIN-SUFFIX,lemby.886223.xyz
   #- DOMAIN-SUFFIX,emby1.123456789.lol
