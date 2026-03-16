@@ -1,1 +1,24 @@
-
+# NAME: Emby
+# AUTHOR: sssspc
+# REPO: https://github.com/sssspc/shadowrocketRules
+# UPDATED: 2026-03-16 21:45:00
+# DOMAIN: 
+# DOMAIN-KEYWORD: 
+# DOMAIN-SUFFIX: 
+# PROCESS-NAME: 
+# TOTAL: 
+DOMAIN,emby.yamo.uk
+DOMAIN,emby.heisi.org
+DOMAIN-KEYWORD,nomaba
+DOMAIN-SUFFIX,emby.younoyes.com
+DOMAIN-SUFFIX,lite.saturdayvideo.top
+DOMAIN-KEYWORD,chilledmelon
+DOMAIN-KEYWORD,lilyemby
+DOMAIN-SUFFIX,jsq.vban.xyz
+DOMAIN-SUFFIX,lemby.886223.xyz
+DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,nebula-media.org
+DOMAIN-SUFFIX,freestream.startspoint.com
+DOMAIN-SUFFIX,free.28.al
+DOMAIN-SUFFIX,handoumedia.top
+DOMAIN-SUFFIX,lite.liminalnet.com
