@@ -12,7 +12,7 @@ payload:
   - DOMAIN,emby.yamo.uk
   - DOMAIN,emby.heisi.org
   - DOMAIN-SUFFIX,tv.micu.hk
-  - DOMAIN-SUFFIX,lite.saturdayvideo.top
+  - DOMAIN-SUFFIX,saturdayent.top
   - DOMAIN-SUFFIX,chilledmelon.com
   - DOMAIN-KEYWORD,lilyemby
   - DOMAIN-SUFFIX,jsq.vban.xyz
