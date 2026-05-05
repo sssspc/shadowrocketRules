@@ -22,8 +22,8 @@ payload:
   #- DOMAIN-SUFFIX,emby1.123456789.lol
   - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN-SUFFIX,nebula-media.org
-  - DOMAIN-SUFFIX,freestream.startspoint.com
-  - DOMAIN-SUFFIX,free.28.al
+  - DOMAIN-SUFFIX,test.startspoint.com
+  - DOMAIN-SUFFIX,test.28.al
   - DOMAIN-SUFFIX,handoumedia.top
   - DOMAIN-SUFFIX,lite.liminalnet.com
   
