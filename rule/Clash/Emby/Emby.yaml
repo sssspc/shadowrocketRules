@@ -11,7 +11,8 @@ payload:
   - DOMAIN,emby.younoyes.com
   - DOMAIN,emby.yamo.uk
   - DOMAIN,emby.heisi.org
-  - DOMAIN,bb.111848.xyz
+  - DOMAIN,bb.111848.xyz    # 步兵营
+  - DOMAIN,file.covh.eu.org # 步兵营
   - DOMAIN-SUFFIX,tv.micu.hk
   - DOMAIN-SUFFIX,saturdayent.top
   - DOMAIN-SUFFIX,chilledmelon.com
