@@ -11,6 +11,7 @@ payload:
   - DOMAIN,emby.younoyes.com
   - DOMAIN,emby.yamo.uk
   - DOMAIN,emby.heisi.org
+  - DOMAIN,bb.111848.xyz
   - DOMAIN-SUFFIX,tv.micu.hk
   - DOMAIN-SUFFIX,saturdayent.top
   - DOMAIN-SUFFIX,chilledmelon.com
@@ -24,4 +25,3 @@ payload:
   - DOMAIN-SUFFIX,test.28.al
   - DOMAIN-SUFFIX,stream.1huanlesap02.top
   - DOMAIN-SUFFIX,handoumedia.top
-  
