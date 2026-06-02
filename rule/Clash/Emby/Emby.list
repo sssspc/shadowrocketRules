@@ -9,8 +9,8 @@
 # TOTAL: 
 DOMAIN,emby.yamo.uk
 DOMAIN,emby.heisi.org
-DOMAIN,bb.111848.xyz    # 步兵营
-DOMAIN,file.covh.eu.org # 步兵营
+DOMAIN,bb.111848.xyz
+DOMAIN,file.covh.eu.org
 DOMAIN-WILDCARD,*.nomaba.*
 DOMAIN-SUFFIX,emby.younoyes.com
 DOMAIN-SUFFIX,saturdayent.top
