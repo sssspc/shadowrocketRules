@@ -8,7 +8,6 @@
 # PROCESS-NAME: 
 # TOTAL: 
 payload:
-  - DOMAIN,cf.697758.xyz
   - DOMAIN,emby.younoyes.com
   - DOMAIN,emby.yamo.uk
   - DOMAIN,emby.heisi.org
