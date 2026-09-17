@@ -1,7 +1,7 @@
-# NAME: Emby
+# NAME: Emby（shadowrocket）
 # AUTHOR: sssspc
 # REPO: https://github.com/sssspc/shadowrocketRules
-# UPDATED: 2025-11-16 20:34:00
+# UPDATED: 2026-9-17 20:34:00
 # DOMAIN: 
 # DOMAIN-KEYWORD: 
 # DOMAIN-SUFFIX: 
@@ -10,6 +10,7 @@
 DOMAIN,emby.yamo.uk
 DOMAIN,emby.heisi.org
 DOMAIN,file.covh.eu.org
+DOMAIN,us.697758.xyz
 DOMAIN-SUFFIX,111848.xyz
 DOMAIN-WILDCARD,*.nomaba.*
 DOMAIN-SUFFIX,emby.younoyes.com
