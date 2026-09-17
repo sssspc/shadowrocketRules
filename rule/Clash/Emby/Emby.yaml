@@ -1,7 +1,7 @@
-# NAME: Emby
+# NAME: Emby（clash）
 # AUTHOR: sssspc
 # REPO: https://github.com/sssspc/shadowrocketRules
-# UPDATED: 2025-11-16 20:34:00
+# UPDATED: 2026-9-17 20:34:00
 # DOMAIN: 
 # DOMAIN-KEYWORD: 
 # DOMAIN-SUFFIX: 
@@ -11,11 +11,12 @@ payload:
   - DOMAIN,emby.younoyes.com
   - DOMAIN,emby.yamo.uk
   - DOMAIN,emby.heisi.org
+  - DOMAIN,us.697758.xyz # 西瓜
   - DOMAIN,file.covh.eu.org # 步兵营
   - DOMAIN-SUFFIX,111848.xyz # 步兵营
   - DOMAIN-SUFFIX,tv.micu.hk
   - DOMAIN-SUFFIX,saturdayent.top
-  - DOMAIN-SUFFIX,chilledmelon.com
+  - DOMAIN-SUFFIX,chilledmelon.com # 西瓜
   - DOMAIN-KEYWORD,lilyemby
   - DOMAIN-KEYWORD,lilyya
   - DOMAIN-KEYWORD,lily
