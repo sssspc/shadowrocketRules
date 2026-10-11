@@ -10,10 +10,11 @@
 payload:
   - DOMAIN,emby.younoyes.com
   - DOMAIN,emby.yamo.uk
-  - DOMAIN,emby.heisi.org
+  - DOMAIN,emby.heisi.org # 游骑兵
   - DOMAIN,us.697758.xyz # 西瓜
   - DOMAIN,file.covh.eu.org # 步兵营
   - DOMAIN-SUFFIX,111848.xyz # 步兵营
+  - DOMAIN-SUFFIX,alien666.de5.net # 游骑兵
   - DOMAIN-SUFFIX,tv.micu.hk
   - DOMAIN-SUFFIX,saturdayent.top
   - DOMAIN-SUFFIX,chilledmelon.com # 西瓜
